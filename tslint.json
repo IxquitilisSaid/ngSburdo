@@ -6,13 +6,18 @@
     "deprecation": {
       "severity": "warning"
     },
+	"indent": [
+      true,
+      "tabs",
+      4
+    ],
     "component-class-suffix": true,
     "contextual-lifecycle": true,
     "directive-class-suffix": true,
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      "cd",
       "camelCase"
     ],
     "component-selector": [
